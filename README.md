@@ -1,5 +1,5 @@
 # Git_Intro_Group_Project #
-(this header ^ does not NEED underscores)
+(this header ^ does not NEED underscores)  
 A Group GitHub for practicing Version Control
 
 ## Instructions ##
