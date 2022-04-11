@@ -1,11 +1,12 @@
-# Git_Intro_Group_Project
+# Git_Intro_Group_Project #
 A Group GitHub for practicing Version Control
 
+## Instructions ##
 Clone this repo and try to modify this txt doc.
 Then use commands:
-git add
-git commit -m "some info about your changes"
-git push
+*git add
+*git commit -m "some info about your changes"
+*git push
 
 I'm fairly new to Git without VSCode so this should be fun :)
 
