@@ -3,7 +3,7 @@ A Group GitHub for practicing Version Control
 
 ## Instructions ##
 Clone this repo and try to modify this txt doc.  
-Then use commands:
+Then use commands:  
 git add  
 git commit -m "some info about your changes"  
 git push
