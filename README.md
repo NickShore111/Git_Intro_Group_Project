@@ -14,3 +14,6 @@ I'm fairly new to Git without VSCode so this should be fun :)
 I made this edit only with GitHub Desktop App. - Cady
 
 Finally got a hang of this using the CMD line -- Ella
+
+This Song gives me some major vibes: -
+https://soundcloud.com/parkhyyejin/clouds?in=nickshore111/sets/chill-vibes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
